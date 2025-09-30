@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
+- 🌱 I’m currently always learning how to more efficiently work with Swift and SwiftUI.
+- 📫 How to reach me: john.newman920@icloud.com
+
 <!--
 **5wift-Hacker/5wift-Hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
