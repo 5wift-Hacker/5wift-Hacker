@@ -2,9 +2,11 @@
 
 My name is John, and I'm a trained Swift / iOS front-end developer interested in all Apple development platforms!
 
-- 🔭 I’m currently working on Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
+- 🔭 I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
   
-- 👽 I recently built an app to help the public discover all currently speculated existing alien species, and types of crafts said to have been reverse-engineered by both the US Govt, and/or the global elite, whichever term you prefer.
+- 👽 I recently built (and am continually improving) an app to help the public discover all currently speculated existing alien species, and types of crafts said to have been reverse-engineered by both the US Govt, and/or the global elite, whichever term you prefer.
+
+- 🙆🏻‍♂️ I also built a stretching app to make stretching more accessible and easier to start immediately.
   
 - 🌱 I’m currently always learning how to more efficiently work with Swift and SwiftUI.
 
