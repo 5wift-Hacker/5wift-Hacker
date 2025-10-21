@@ -1,30 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm John Newman
 
-My name is John, and I'm a trained Swift / iOS front-end developer interested in all Apple development platforms!
+**Swift/iOS Developer** | Building apps that spark curiosity, teach empathy, and stretch minds (literally) | Passionate about Apple ecosystems and world-changing code
 
-- 🔭 I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
-  
-- 👽 I'm building and improving an app called Cosmidex to help the public discover all currently speculated existing alien species, and types of crafts said to have been reverse-engineered by both the US Govt, and/or the global elite, whichever term you prefer.
+![Black Hole Vortex](https://media.giphy.com/media/yRSCA5J11YYUHxIA6N/giphy.gif) 
 
-- 🙆🏻‍♂️ I also built a stretching app called Bad Timing, to make stretching more accessible and easier to start immediately.
-  
-- 🌱 I’m always learning how to more efficiently work with Swift and SwiftUI.
+## 🚀 What I'm Up To
 
-- ☄️ My biggest interests lie in changing the world, one line of code at a time! I love high-impact projects that help change the world for the better.
-  
-- 📫 How to reach me: john.newman920@icloud.com
+- **🔭 Currently @ Little Legends**  
+  Crafting an interactive comic app that syncs with physical books to help kids navigate emotions through gamified adventures. Think: Superhero stories meets emotional intelligence—because every legend starts with feeling seen.
 
-<!--
-**5wift-Hacker/5wift-Hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **👽 Side Quest: Cosmidex**  
+  An app decoding the universe's mysteries! Users explore speculated alien species and reverse-engineered crafts (US Gov or global elite—your conspiracy flavor). Built with SwiftUI for seamless, otherworldly scrolling.
 
-Here are some ideas to get you started:
+- **🙆🏻‍♂️ Past Build: Bad Timing**  
+  A no-fuss stretching companion to kickstart wellness habits. Simple taps, guided flows, and reminders that make "I'll do it later" a thing of the past. (Pro tip: Stretch now—your future self says thanks.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Always Evolving
+
+- Mastering Swift & SwiftUI for buttery-smooth UIs that feel alive.  
+- Dreaming big: High-impact apps that nudge the world toward kindness, curiosity, and cosmic awareness. One commit at a time. ☄️
+
+> "Code is poetry, but the best poems change the world." – Me, probably.
+
+## 📫 Let's Connect
+- ✉️ **Email**: [john.newman920@icloud.com](mailto:john.newman920@icloud.com)  
+- 💼 **LinkedIn**: [John Newman](www.linkedin.com/in/jnewmandev)
+
+---
+
+*Built with ❤️ on GitHub* | *Last updated: October 2025*
