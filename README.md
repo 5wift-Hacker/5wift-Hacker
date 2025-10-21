@@ -4,7 +4,7 @@
 
 ## 🚀 What I'm Up To
 
-- **🔭 Currently working @ Little Legends**  
+- **<span style="font-size: 2em;">🔭</span> Currently @ Little Legends**
   I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
 
 - **👽 Current Build: Cosmidex**  
