@@ -8,7 +8,7 @@ My name is John, and I'm a trained Swift / iOS front-end developer interested in
 
 - 🙆🏻‍♂️ I also built a stretching app called Bad Timing, to make stretching more accessible and easier to start immediately.
   
-- 🌱 I’m currently always learning how to more efficiently work with Swift and SwiftUI.
+- 🌱 I’m always learning how to more efficiently work with Swift and SwiftUI.
 
 - ☄️ My biggest interests lie in changing the world, one line of code at a time! I love high-impact projects that help change the world for the better.
   
