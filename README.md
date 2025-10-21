@@ -5,20 +5,20 @@
 ## 🚀 What I'm Up To
 
 - **🔭 Currently @ Little Legends**  
-  Crafting an interactive comic app that syncs with physical books to help kids navigate emotions through gamified adventures. Think: Superhero stories meets emotional intelligence—because every legend starts with feeling seen.
+  I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
 
 - **👽 Side Quest: Cosmidex**  
-  An app decoding the universe's mysteries! Users explore speculated alien species and reverse-engineered crafts (US Gov or global elite—your conspiracy flavor). Built with SwiftUI for seamless, otherworldly scrolling.
+  I'm building and improving an app called Cosmidex to help the public discover all currently speculated existing alien species, and types of crafts said to have been reverse-engineered by both the US Govt, and/or the global elite, whichever term you prefer.
 
 - **🙆🏻‍♂️ Past Build: Bad Timing**  
-  A no-fuss stretching companion to kickstart wellness habits. Simple taps, guided flows, and reminders that make "I'll do it later" a thing of the past. (Pro tip: Stretch now—your future self says thanks.)
+  I also built a stretching app called Bad Timing, to make stretching more accessible and easier to start immediately. A no-fuss stretching companion to help improve stretching habits, even if it's bad timing. Open the app and enjoy the 'one-tap' start to get stretching.
 
 ## 🌱 Always Evolving
 
-- Mastering Swift & SwiftUI for buttery-smooth UIs that feel alive.  
-- Dreaming big: High-impact apps that nudge the world toward kindness, curiosity, and cosmic awareness. One commit at a time. ☄️
-
-> "Code is poetry, but the best poems change the world." – Me, probably.
+- I’m always learning how to work more efficiently with Swift and SwiftUI
+- I keep updated on the latest releases and topics in Swift
+- I love being on the forefront of modern app creation
+- I'm interested in high-impact apps that nudge the world toward kindness, curiosity, and cosmic awareness ☄️
 
 ## 📫 Let's Connect
 - ✉️ **Email**: [john.newman920@icloud.com](mailto:john.newman920@icloud.com)  
