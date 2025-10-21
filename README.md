@@ -2,8 +2,6 @@
 
 **Swift/iOS Developer** | Building apps that spark curiosity, teach empathy, and stretch minds (literally) | Passionate about Apple ecosystems and world-changing code
 
-![Black Hole Vortex](https://media.giphy.com/media/yRSCA5J11YYUHxIA6N/giphy.gif) 
-
 ## 🚀 What I'm Up To
 
 - **🔭 Currently @ Little Legends**  
