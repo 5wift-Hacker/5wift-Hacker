@@ -4,10 +4,10 @@
 
 ## 🚀 What I'm Up To
 
-- **🔭 Currently @ Little Legends**  
+- **🔭 Currently working @ Little Legends**  
   I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
 
-- **👽 Side Quest: Cosmidex**  
+- **👽 Current Build: Cosmidex**  
   I'm building and improving an app called Cosmidex to help the public discover all currently speculated existing alien species, and types of crafts said to have been reverse-engineered by both the US Govt, and/or the global elite, whichever term you prefer.
 
 - **🙆🏻‍♂️ Past Build: Bad Timing**  
@@ -26,4 +26,4 @@
 
 ---
 
-*Built with ❤️ on GitHub* | *Last updated: October 2025*
+*Last updated: October 2025*
