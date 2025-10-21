@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm John Newman
 
-**Swift/iOS Developer** | Building apps that spark curiosity, teach empathy, and stretch minds (literally) | Passionate about Apple ecosystems and world-changing code
+**Swift/iOS Developer** | Passionate about Apple ecosystems and world-changing code
 
 ## 🚀 What I'm Up To
 
