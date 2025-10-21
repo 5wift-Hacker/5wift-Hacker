@@ -22,7 +22,7 @@
 
 ## 📫 Let's Connect
 - ✉️ **Email**: [john.newman920@icloud.com](mailto:john.newman920@icloud.com)  
-- 💼 **LinkedIn**: [John Newman](www.linkedin.com/in/jnewmandev)
+- 💼 **LinkedIn**: [John Newman](http://www.linkedin.com/in/jnewmandev)
 
 ---
 
