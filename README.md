@@ -4,11 +4,11 @@
 
 ## 🚀 What I'm Up To
 
-- **<span style="font-size: 20em;">🔭</span> Currently @ Little Legends**  
-  I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
+- **<span style="font-size: 5em;"></span> Current Build: mohka**  
+  I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. There is a lot more work going into this, and is becoming a much more extensive and feature-rich app, going far beyond profit calculation. This expansion is currently in progress.
 
-- **<span style="font-size: 5em;">👽</span> Current Build: Cosmidex**  
-  I'm building and improving an app called Cosmidex to help the public discover all currently speculated existing alien species, and types of crafts said to have been reverse-engineered by both the US Govt, and/or the global elite, whichever term you prefer.
+- **<span style="font-size: 20em;">🔭</span> Past Experience: Little Legends**  
+  I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
 
 - **<span style="font-size: 5em;">🙆🏻‍♂️</span> Past Build: Bad Timing**  
   I also built a stretching app called Bad Timing, to make stretching more accessible and easier to start immediately. A no-fuss stretching companion to help improve stretching habits, even if it's bad timing. Open the app and enjoy the 'one-tap' start to get stretching.
