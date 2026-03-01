@@ -4,7 +4,7 @@
 
 ## 🚀 What I'm Up To
 
-- **<span style="font-size: 5em;"></span> Current Build: mohka**  
+- **<span style="font-size: 5em;">💸</span> Current Build: mohka**  
   I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. There is a lot more work going into this, and is becoming a much more extensive and feature-rich app, going far beyond profit calculation. This expansion is currently in progress.
 
 - **<span style="font-size: 20em;">🔭</span> Past Experience: Little Legends**  
