@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm John Newman
 
-**Swift/iOS Developer** | Passionate about Apple ecosystems and world-changing code
+**Software Engineer** | Passionate about software engineering, and in turn, world-changing code
 
 ## 🚀 What I'm Up To
 
@@ -15,9 +15,9 @@
 
 ## 🌱 Always Evolving
 
-- I’m always learning how to work more efficiently with Swift and SwiftUI
-- I keep updated on the latest releases and topics in Swift
-- I love being on the forefront of modern app creation
+- I’m always learning how to work more efficiently not only Swift, but other languages.
+- I keep updated on the latest releases and topics in software engineering.
+- I love being on the forefront of modern development
 - I'm interested in high-impact apps that nudge the world toward kindness, curiosity, and cosmic awareness ☄️
 
 ## 📫 Let's Connect
