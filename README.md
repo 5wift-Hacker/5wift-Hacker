@@ -15,7 +15,7 @@
 
 ## 🌱 Always Evolving
 
-- I’m always learning more, whether it be in Swift, or other programming language. I love coding!
+- I’m always learning more, whether it be in Swift, or another language. I love coding!
 - I keep updated on the latest releases and topics in software engineering.
 - I love being on the forefront of modern development
 - I'm interested in high-impact apps that nudge the world toward kindness, curiosity, and cosmic awareness ☄️
