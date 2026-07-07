@@ -10,8 +10,8 @@
 - **<span style="font-size: 20em;">🔭</span> Past Experience: Little Legends**  
   I’m currently working with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
 
-- **<span style="font-size: 5em;">🙆🏻‍♂️</span> Past Build: Bad Timing**  
-  I also built a stretching app called Bad Timing, to make stretching more accessible and easier to start immediately. A no-fuss stretching companion to help improve stretching habits, even if it's bad timing. Open the app and enjoy the 'one-tap' start to get stretching.
+- **<span style="font-size: 5em;">🙆🏻‍♂️</span> Past Build: ImperDex**  
+  I also built a Pokémon app called ImperDex. It consumes the PokeAPI, while utilizing offline caching for fast and reliable access. It's searchable, animated, and uses async/await. You can visualize the pokémon with SwiftCharts, and add a widget to see your favorite pokémon on your home screen.
 
 ## 🌱 Always Evolving
 
