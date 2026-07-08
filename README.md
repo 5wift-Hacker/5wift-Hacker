@@ -1,8 +1,11 @@
 # Hi there! 👋 I'm John Newman
 
-**Software Engineer** | Passionate about software engineering, and in turn, world-changing code
+**Aspiring Helpdesk Specialist and IAM Engineer** | Passionate about world-changing IT and software engineering.
 
 ## 🚀 What I'm Up To
+
+- **<span style="font-size: 5em;">💵</span> Current Build: IAM Lab**  
+  I've spun up 2 Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
 
 - **<span style="font-size: 5em;">💵</span> Current Build: mohka**  
   I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. There is a lot more work going into this, and is becoming a much more extensive and feature-rich app, going far beyond profit calculation. This expansion is currently in progress.
@@ -15,10 +18,9 @@
 
 ## 🌱 Always Evolving
 
-- I’m always learning more, whether it be in Swift, or another language. I love coding!
-- I keep updated on the latest releases and topics in software engineering.
-- I love being on the forefront of modern development
-- I'm interested in high-impact apps that nudge the world toward kindness, curiosity, and cosmic awareness ☄️
+- I’m always learning more, whether it be in IT, IAM, or programming. I love tech!
+- I love being on the forefront of modern technology and programming.
+- I'm interested in high-impact IT work that nudge the world toward kindness, curiosity, understanding, and automation ☄️
 
 ## 📫 Let's Connect
 - ✉️ **Email**: [john.newman920@icloud.com](mailto:john.newman920@icloud.com)  
