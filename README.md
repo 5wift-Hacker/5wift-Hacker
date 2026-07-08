@@ -8,7 +8,7 @@
   I've spun up 2 Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
 
 - **<span style="font-size: 5em;">💵</span> Current Build: mohka**  
-  I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. There is a lot more work going into this, and is becoming a much more extensive and feature-rich app, going far beyond profit calculation. This expansion is currently in progress.
+  I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. It contains analytics, subscription via RevenueCat, SwiftData, and more.
 
 - **<span style="font-size: 20em;">🔭</span> Past Experience: Little Legends**  
   I worked with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
