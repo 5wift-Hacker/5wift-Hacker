@@ -4,7 +4,7 @@
 
 ## 🚀 What I'm Up To
 
-- **<span style="font-size: 5em;">💵</span> Current Build: IAM Lab**  
+- **<span style="font-size: 5em;">🧪</span> Current Build: IAM Lab**  
   I've spun up 2 Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
 
 - **<span style="font-size: 5em;">💵</span> Current Build: mohka**  
