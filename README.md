@@ -4,7 +4,7 @@
 
 ## 🚀 What I'm Up To
 
-- **<span style="font-size: 5em;">🧪</span> Focus: [IAM Lab](./5wift-Hacker/IAM-labs/IAM-Overview.md)**  
+- **<span style="font-size: 5em;">🧪</span> Focus: [IAM Lab](https://github.com/5wift-Hacker/IAM-labs/blob/main/IAM-Overview.md)**  
   I've spun up 2 (thus far) Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
 
 - **<span style="font-size: 5em;">💵</span> Recent Build: mohka**  
