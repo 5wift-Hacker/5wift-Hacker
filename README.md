@@ -4,16 +4,16 @@
 
 ## 🚀 What I'm Up To
 
-- **<span style="font-size: 5em;">🧪</span> Current Build: IAM Lab**  
+- **<span style="font-size: 5em;">🧪</span> Focus: IAM Lab**  
   I've spun up 2 Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
 
-- **<span style="font-size: 5em;">💵</span> Current Build: mohka**  
+- **<span style="font-size: 5em;">💵</span> Recent Build: mohka**  
   I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. It contains analytics, subscription via RevenueCat, SwiftData, and more.
 
 - **<span style="font-size: 20em;">🔭</span> Past Experience: Little Legends**  
   I worked with Little Legends, an interactive comic app start-up that pairs with a physical comic book. It aims to assist children in learning and understanding their emotions through fun, gamified visuals and ideas.
 
-- **<span style="font-size: 5em;">🙆🏻‍♂️</span> Past Build: ImperDex**  
+- **<span style="font-size: 5em;">🙆🏻‍♂️</span> Past Portfolio Project: ImperDex**  
   I also built a Pokémon app called ImperDex. It consumes the PokeAPI, while utilizing offline caching for fast and reliable access. It's searchable, animated, and uses async/await. You can visualize the pokémon with SwiftCharts, and add a widget to see your favorite pokémon on your home screen.
 
 ## 🌱 Always Evolving
