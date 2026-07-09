@@ -5,7 +5,7 @@
 ## 🚀 What I'm Up To
 
 - **<span style="font-size: 5em;">🧪</span> Focus: IAM Lab**  
-  I've spun up 2 Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
+  I've spun up 2 (thus far) Microsoft Entra ID labs running through the Joiner-Mover-Leaver (JML) process, password changes, reinstating users, and access-level control.
 
 - **<span style="font-size: 5em;">💵</span> Recent Build: mohka**  
   I've built and shipped (available on the app store) a fully-featured Etsy profit calculation tool for Etsy sellers to utilize in their business. It contains analytics, subscription via RevenueCat, SwiftData, and more.
